@@ -12,11 +12,13 @@ Working:
 - Ethernet
 - Bluetooth
 - Wifi (via HeliPort app)
-
+<-->
 - FaceTime
 - iMessages
 - iCloud
+- Wacom tablet
 
 Not working:
 - AirDrop
 - Find My Mac
+- USB Type C port
