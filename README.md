@@ -24,3 +24,6 @@ Not working:
 - AirDrop
 - Find My Mac
 - USB Type C port
+  
+Known problem:
+- Hibernating will cause some damages to the bluetooth driver. Never let it hibernating
